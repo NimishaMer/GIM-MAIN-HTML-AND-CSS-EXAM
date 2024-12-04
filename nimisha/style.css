@@ -1,0 +1,365 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+header {
+    background-color: #b75a74;
+    height: 100vh;
+    position: relative;
+}
+
+.main {
+    display: flex;
+    justify-content: left;
+    padding-top: 50px;
+}
+
+ul li {
+    display: inline;
+    padding-left: 60px;
+
+}
+
+ul li a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    font-size: 23px;
+    text-transform: uppercase;
+    color: #ffefd5;
+    font-weight: 600;
+
+}
+
+.logo img {
+    height: 60px;
+    padding-left: 100px;
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text1 {
+    padding-top: 170px;
+    margin-left: 180px;
+}
+
+.text1 h1 {
+    font-size: 30px;
+    font-size: 78px;
+    text-transform: uppercase;
+    color: #ffefd5;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.text1 p {
+    padding-top: 50px;
+    width: 600px;
+    height: 20px;
+    font-size: 20px;
+    color: #ffefd5;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.text1 button {
+    height: 50px;
+    width: 270px;
+    border-radius: 33px;
+    background-color: #ffefd5;
+    margin-top: 150px;
+    border: none;
+    color: #b75a74;
+    font-size: 20px;
+}
+
+.mainimg img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 945px;
+    width: 950px;
+}
+
+.cection2 {
+    background-color: #ffefd5;
+    height: 100vh;
+    /* overflow: hidden; */
+
+}
+
+.cection2 h1 {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 64px;
+    text-transform: uppercase;
+    color: #b75a74;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cection2 p {
+    margin-left: 600px;
+    padding-top: 40px;
+    color: #b75a74;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 30px;
+    width: 800px;
+}
+
+.imges {
+    display: flex;
+    justify-content: center;
+    padding-top: 140px;
+    gap: 130px;
+
+}
+
+.tmis h3 {
+    padding-top: 15px;
+    text-align: center;
+    color: #b75a74;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.tmis h6 {
+    padding-top: 10px;
+    text-align: center;
+    color: #b75a74;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 20px;
+    width: 300px;
+
+
+}
+
+.mkl {
+    height: 100px;
+}
+
+
+.imges {
+    position: relative;
+
+}
+
+.im1 {
+    position: absolute;
+    top: 95%;
+    left: 10%;
+}
+
+.im2 {
+    position: absolute;
+    top: 110%;
+    left: 80%;
+}
+
+.im3 {
+    position: absolute;
+    top: 160%;
+    left: -1%;
+}
+
+.im4 {
+    position: absolute;
+    top: 160%;
+    right: 1%;
+}
+
+.cection3 {
+    background-color: #b75a74;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.klj1{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+.klj2{
+    position: absolute;
+    top: -5%;
+    left: 50%;
+}
+.klj3{
+    position: absolute;
+    top: -3%;
+    left: 80%;
+}
+.gimg img {
+    margin-top: 200px;
+    margin-right: 200px;
+}
+
+.textmain {
+    margin-top: 280px;
+
+}
+
+.textmain h1 {
+    font-size: 75px;
+    text-transform: uppercase;
+    color: #ffefd5;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.textmain p {
+    padding-top: 20px;
+    width: 581px;
+    height: 20px;
+    color: #ffefd5;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.textmain button {
+    height: 50px;
+    width: 240px;
+    background-color: #ffefd5;
+    border: none;
+    border-radius: 50px;
+    color: #b75a74;
+    font-size: 20px;
+    margin-top: 150px;
+}
+.cection4{
+    background-color: #ffefd5;
+    height: 100vh;
+    position: relative;
+   
+}
+.yutfimh{
+    position: relative;
+}
+.hf1{
+    position: absolute;
+    top: 100px;
+    left: 10%;
+}
+.hf2{
+    position: absolute;
+    top:-50px ;
+    left: 60%;
+}
+.hf3{
+    position: absolute;
+    top:190px ;
+    right: 100px;
+}
+.mainbox{
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.mainox1{
+    height: 200px;
+    width: 200px;
+    border: 5px solid #b75a74;
+    border-radius: 50%;
+}
+.cection4 h1 {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 64px;
+    text-transform: uppercase;
+    color: #b75a74;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cection4 p {
+    margin-left: 600px;
+    padding-top: 40px;
+    color: #b75a74;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 30px;
+    width: 800px;
+}
+.mainox1 h1{
+    margin-top: -60px;
+}
+.mainox1 h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #b75a74;
+    margin-top: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-left: 70px;
+
+
+}
+.cection5 {
+    background-color: #b75a74;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    gap: 330px;
+}
+.klj11{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+}
+.klj21{
+    position: absolute;
+    top: -5%;
+    left: 50%;
+}
+.klj31{
+    position: absolute;
+    top: -3%;
+    left: 80%;
+}
+.klj41{
+    position: absolute;
+    top: 80%;
+    left: 40%;
+}
+
+
+
+.textmain1 h1 {
+    padding-top: 300px;
+    font-size: 75px;
+    text-transform: uppercase;
+    color: #ffefd5;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.textmain1 p {
+    padding-top: 20px;
+    width: 581px;
+    height: 20px;
+    color: #ffefd5;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.textmain1 button {
+    height: 50px;
+    width: 240px;
+    background-color: #ffefd5;
+    border: none;
+    border-radius: 50px;
+    color: #b75a74;
+    font-size: 20px;
+    margin-top: 150px;
+}
+.gimg1 img{
+   margin-top: 200px;
+}
